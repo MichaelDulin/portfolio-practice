@@ -11,13 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Checkers",
         "startDate": "2023",
         "description": "A simple, interactive game of Checkers. ",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg",
-          "images/portfolio/animal-shelter/p3.jpg"
+          "images/portfolio/checkers/p1.jpg",
+          "images/portfolio/checkers/p2.jpg",
+          "images/portfolio/checkers/p3.jpg"
         ],
         "url": "",
         "technologies": [
@@ -36,13 +36,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "Odd-Duck Products",
+        "startDate": "2023",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg",
-          "images/portfolio/animal-shelter/p3.jpg"
+          "images/portfolio/oddDuck/p1.jpg",
+          "images/portfolio/oddDuck/p2.jpg",
+          "images/portfolio/oddDuck/p3.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -57,13 +57,13 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "Gallery of Beasts",
+        "startDate": "2023",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg",
-          "images/portfolio/animal-shelter/p3.jpg"
+          "images/portfolio/galleryOfBeasts/p1.jpg",
+          "images/portfolio/galleryOfBeasts/p2.jpg",
+          "images/portfolio/galleryOfBeasts/p3.jpg"
         ],
         "url": "https://github.com",
         "technologies": [

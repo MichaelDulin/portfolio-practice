@@ -15,8 +15,9 @@
         "startDate": "2020",
         "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/checkers/p1.jpg",
+          "images/portfolio/checkers/p2.jpg",
+          "images/portfolio/checkers/p3.jpg"
         ],
         "url": "",
         "technologies": [
@@ -39,8 +40,9 @@
         "startDate": "2018",
         "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/oddDuck/p1.jpg",
+          "images/portfolio/oddDuck/p2.jpg",
+          "images/portfolio/oddDuck/p3.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -59,8 +61,9 @@
         "startDate": "2015",
         "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/galleryOfBeasts/p1.jpg",
+          "images/portfolio/galleryOfBeasts/p2.jpg",
+          "images/portfolio/galleryOfBeasts/p3.jpg"
         ],
         "url": "https://github.com",
         "technologies": [

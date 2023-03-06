@@ -1,16 +1,16 @@
 {
     "basic_info": {
       "name": "Michael Dulin",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full-Stack Software Developer" ],
       "social": [
         {
-          "name": "github",
-          "url": "https://github.com",
+          "name": "GitHub",
+          "url": "https://github.com/MichaelDulin",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/michael-dulin-563203239/",
           "class": "fab fa-instagram"
         }
       ],

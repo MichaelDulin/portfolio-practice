@@ -1,121 +1,116 @@
 {
-    "basic_info": {
-      "description_header": "Hey there.",
-      "description": "👋 I'm Michael, a fullstack software developer with a passion for delivering quality products and experiences for users. I am USN vet, having spent 5 years active duty as a Hospital Coprsman. I love coaching baseball for my little brother and hanging out with my dogs.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hey there.",
+    "description": "👋 I'm Michael, a fullstack software developer with a passion for delivering quality products and experiences for users. I am USN vet, having spent 5 years active duty as a Hospital Coprsman. I love coaching baseball for my little brother and hanging out with my dogs.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Checkers",
+      "startDate": "2023",
+      "description": "A simple, interactive game of Checkers and my most ambitious project so far. ",
+      "images": [
+        "images/portfolio/checkers/p1.jpg",
+        "images/portfolio/checkers/p2.jpg",
+        "images/portfolio/checkers/p3.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Checkers",
-        "startDate": "2023",
-        "description": "A simple, interactive game of Checkers. ",
-        "images": [
-          "images/portfolio/checkers/p1.jpg",
-          "images/portfolio/checkers/p2.jpg",
-          "images/portfolio/checkers/p3.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Odd-Duck Products",
-        "startDate": "2023",
-        "description": "My first project working with local stora",
-        "images": [
-          "images/portfolio/oddDuck/p1.jpg",
-          "images/portfolio/oddDuck/p2.jpg",
-          "images/portfolio/oddDuck/p3.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Gallery of Beasts",
-        "startDate": "2023",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/galleryOfBeasts/p1.jpg",
-          "images/portfolio/galleryOfBeasts/p2.jpg",
-          "images/portfolio/galleryOfBeasts/p3.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Odd-Duck Products",
+      "startDate": "2023",
+      "description": "An app which allows users to choose from a variety of products. Products are displayed randomly and after 25 guess, displays a graph based off user choices. Graph saves and updates each time the page is submitted or refreshed.",
+      "images": [
+        "images/portfolio/oddDuck/p1.jpg",
+        "images/portfolio/oddDuck/p2.jpg",
+        "images/portfolio/oddDuck/p3.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Gallery of Beasts",
+      "startDate": "2023",
+      "description": "My first experience working with React. I had a great time playing around with this. Using hooks, I was able to dynamically search all the beasts available by horn number.",
+      "images": [
+        "images/portfolio/galleryOfBeasts/p1.jpg",
+        "images/portfolio/galleryOfBeasts/p2.jpg",
+        "images/portfolio/galleryOfBeasts/p3.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Code Fellows",
+      "title": "Student: Full-Stack",
+      "years": "01.23 - present",
+      "mainTech": ["JavaScript"],
+      "technologies": [
+        "React",
+        "RxJS",
+        "Node.JS",
+        "JavaScript",
+        "Bootstrap",
+        "HTML 5",
+        "CSS 3"
+      ]
+    },
+    {
+      "company": "United States Navy",
+      "title": "Hospital Corpsman",
+      "years": "09.2014 - 09.2019",
+      "mainTech": [""],
+      "technologies": [""]
+    },
+    {
+      "company": "Tyemill",
+      "title": "Intern: Front-End",
+      "years": "05.13 - 08.13",
+      "mainTech": ["HTML 5", "CSS 3"],
+      "technologies": ["HTML 5", "Ruby", "CSS 3", "JavaScript"]
+    }
+  ]
+}
